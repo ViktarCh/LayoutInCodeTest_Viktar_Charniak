@@ -1,0 +1,6 @@
+framework module Pods_LayoutInCodeTest_ViktarCharniak {
+  umbrella header "Pods-LayoutInCodeTest_ViktarCharniak-umbrella.h"
+
+  export *
+  module * { export * }
+}
